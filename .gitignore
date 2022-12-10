@@ -139,3 +139,6 @@ artifacts/prepare_callbacks/checkpoint_dir/model.h5
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-09-16-31-43/train/events.out.tfevents.1670583706.LAPTOP-0CL2AVRS.2588.0.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-09-16-31-43/validation/events.out.tfevents.1670586373.LAPTOP-0CL2AVRS.2588.1.v2
 artifacts/training/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-10-10-55-34/train/events.out.tfevents.1670649936.LAPTOP-0CL2AVRS.10212.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-10-10-55-34/validation/events.out.tfevents.1670652533.LAPTOP-0CL2AVRS.10212.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-09-22-45-37/train/events.out.tfevents.1670606139.LAPTOP-0CL2AVRS.23500.0.v2
