@@ -142,3 +142,16 @@ artifacts/training/model.h5
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-10-10-55-34/train/events.out.tfevents.1670649936.LAPTOP-0CL2AVRS.10212.0.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-10-10-55-34/validation/events.out.tfevents.1670652533.LAPTOP-0CL2AVRS.10212.1.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-09-22-45-37/train/events.out.tfevents.1670606139.LAPTOP-0CL2AVRS.23500.0.v2
+mlruns/0/c2f9b6f94495453b8ca2ee88120f48bc/metrics/mae
+mlruns/0/c2f9b6f94495453b8ca2ee88120f48bc/metrics/r2
+mlruns/0/c2f9b6f94495453b8ca2ee88120f48bc/metrics/rmse
+mlruns/0/c2f9b6f94495453b8ca2ee88120f48bc/params/alpha
+mlruns/0/c2f9b6f94495453b8ca2ee88120f48bc/params/l1_ratio
+mlruns/0/c2f9b6f94495453b8ca2ee88120f48bc/tags/mlflow.runName
+mlruns/0/c2f9b6f94495453b8ca2ee88120f48bc/tags/mlflow.source.git.commit
+mlruns/0/c2f9b6f94495453b8ca2ee88120f48bc/tags/mlflow.source.name
+mlruns/0/c2f9b6f94495453b8ca2ee88120f48bc/tags/mlflow.source.type
+mlruns/0/c2f9b6f94495453b8ca2ee88120f48bc/tags/mlflow.user
+prediction_service/model.h5
+mlruns/0/c2f9b6f94495453b8ca2ee88120f48bc/meta.yaml
+mlruns/0/meta.yaml
