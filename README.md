@@ -1,4 +1,4 @@
-# deep Classifier project
+# Deep Classifier project
 
 ## workflow
 
@@ -29,3 +29,7 @@ STEP 2: install mlflow
 STEP 3: Set remote URI
 
 STEP 4: Use context manager of mlflow to start run and then log metrics, params and model
+
+## Sample data for testing-
+
+https://raw.githubusercontent.com/c17hawke/raw_data/main/sample_data.zip
